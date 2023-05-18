@@ -19,7 +19,7 @@ git clone git@github.com:markthos/New-Password-Generator.git
 
 ## Usage
 
-New password generator page that allows the user to choose which criteria they would like or need before generating a password that follows that criteria. The goal is to help users create stronger passwords that provide greater security and meet the criteria of many password guarded accounts.
+New password generator page that allows the user to choose which criteria they would like or need before generating a password that follows that criteria. The goal is to help users create stronger passwords that provide greater security and meet the criteria of many password protected accounts.
 
 ## Credits
 
@@ -31,7 +31,7 @@ This landing page is licensed under the [MIT License](https://opensource.org/lic
 
 ## Screenshot
 
-<img src="images\screencapture-127-0-0-1-5500-index-html-2023-05-12-01_30_27.png">
+<img src="\Assets\screencapture-markthos-github-io-New-Password-Generator-2023-05-18-16_51_08.png">
 
 ## Link
 
