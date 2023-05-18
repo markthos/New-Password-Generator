@@ -26,12 +26,12 @@ function generatePassword() {
 
   // Validate user input
   if (passwordLength < 8 || passwordLength > 128) {
-    alert("Password length must be between 8 and 128 characters");
+    alert("Your password length must be between 8 and 128 characters");
     return;
   }
 
   // Prompt user for character types to include
-  var includeLowercase = confirm("Click OK to confirm including lowercase characters");
+  var includeLowercase = confirm("Would you like to include lowercase characters?");
   var includeUppercase = confirm("Click OK to confirm including uppercase characters");
   var includeNumeric = confirm("Click OK to confirm including numeric characters");
   var includeSpecial = confirm("Click OK to confirm including special characters");
