@@ -31,7 +31,7 @@ This landing page is licensed under the [MIT License](https://opensource.org/lic
 
 ## Screenshot
 
-<img src="assets\screencapture-markthos-github-io-New-Password-Generator-2023-05-18-16_51_08.png">
+<img src="Develop/Assets/screencapture-markthos-github-io-New-Password-Generator-2023-05-18-16_51_08.png">
 
 ## Link
 
