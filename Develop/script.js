@@ -31,14 +31,14 @@ function generatePassword() {
   }
 
   // Prompt user for character types to include
-  var includeLowercase = confirm("Would you like to include lowercase characters?");
-  var includeUppercase = confirm("Click OK to confirm including uppercase characters");
-  var includeNumeric = confirm("Click OK to confirm including numeric characters");
-  var includeSpecial = confirm("Click OK to confirm including special characters");
+  var includeLowercase = confirm("Click OK if you would like to include lowercase characters?");
+  var includeUppercase = confirm("Click OK if you would like to include uppercase characters");
+  var includeNumeric = confirm("Click OK if you would like to include numeric characters");
+  var includeSpecial = confirm("Click OK if you would like to include special characters");
 
   // Validate user input
   if (!includeLowercase && !includeUppercase && !includeNumeric && !includeSpecial) {
-    alert("Must select at least one character type");
+    alert("INVALID: You must select at least one character type");
     return;
   }
 
